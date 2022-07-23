@@ -9,6 +9,8 @@
 
 - 📫 How to reach me **nagar.yash107@gmail.com**
 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=yashh-01&ring=DD2727&fire=DD2727)](https://git.io/streak-stats)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/yash-nagar-201" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yash-nagar-201" height="30" width="40" /></a>
