@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **nagar.yash107@gmail.com**
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=yashh-01&ring=DD2727&fire=DD2727)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=yashh-01&theme=dark&hide_border=true&ring=DD2727&fire=DD2727)](https://git.io/streak-stats)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
