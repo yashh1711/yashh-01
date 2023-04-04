@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Yash Nagar</h1>
 <h3 align="center">A passionate learner from India </h3>
 
-- 🔭 I’m currently working on **Web Development**
+- 🔭 I’m currently working on **Flutter Development**
 
-- 🌱 I’m currently learning **CSS**
+- 🌱 I’m currently learning **Dart**
 
-- 💬 Ask me about **MySQL, flutter, dart**
+- 💬 Ask me about **MySQL, flutter, C++**
 
 - 📫 How to reach me **nagar.yash107@gmail.com**
 
