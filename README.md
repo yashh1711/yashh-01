@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Flutter Development**
 
-- 🌱 I’m currently learning **Dart**
+- 🌱 I’m currently learning **Firebase**
 
 - 💬 Ask me about **MySQL, flutter, C++**
 
