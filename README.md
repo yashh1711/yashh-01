@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Yash Nagar</h1>
 <h3 align="center">A passionate learner from India </h3>
 
-- 🔭 I’m currently working on **Flutter Development**
+- 🔭 I’m currently working on **Full Stack Development**
 
-- 🌱 I’m currently learning **Firebase**
+- 🌱 I’m currently learning **express.js**
 
 - 💬 Ask me about **MySQL, flutter, C++**
 
